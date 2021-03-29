@@ -1,2 +1,2 @@
 # Probabilistic-Artificial-Intelligence-2020
-This repository consists of solutions for the course Probabilistic Artificial Intelligence at ETH Zurich, Autumn Semester 2020. Download data: [here](https://polybox.ethz.ch/index.php/f/2341607200)
+This repository consists of solutions for the course Probabilistic Artificial Intelligence at ETH Zurich, Autumn Semester 2020. Download data: [here](https://polybox.ethz.ch/index.php/s/1lvPIn2qzdnF3fL)
